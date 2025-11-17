@@ -1,6 +1,10 @@
 # Just Salad Catering Online Ordering
 
+[![GitHub](https://img.shields.io/badge/github-catering--square-blue?logo=github)](https://github.com/mattsilv/catering-square)
+
 Online ordering system for Just Salad catering with Square POS integration.
+
+**Repository**: https://github.com/mattsilv/catering-square
 
 ## Quick Links
 
