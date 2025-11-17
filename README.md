@@ -12,6 +12,7 @@ Online ordering system for Just Salad catering with Square POS integration.
 - [Menu Structure](docs/menu-structure.md) - Categories, items, customization
 - [Data Models](docs/data-models.md) - Schema, validation, cart logic
 - [Square Integration](docs/square-integration.md) - API setup, catalog sync, payments
+- [Public Data Endpoints](docs/public-data-endpoints.md) - Menu/location JSON APIs for mockups
 
 ## Stack
 
